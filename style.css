@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #004a99; /* Vets2PM Blue? */
+    color: #ffffff;
+    padding-top: 10px;
+    min-height: 70px;
+    border-bottom: #003366 3px solid;
+}
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-left: 15px;
+}
+
+header nav {
+    float: right;
+    margin-top: 10px;
+}
+
+header h1 {
+    float: left;
+    margin: 0;
+}
+
+main {
+    padding: 20px 0;
+    background: #fff;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background: #fafafa;
+}
+
+h2, h3 {
+    color: #004a99;
+}
+
+ul, ol {
+    margin-bottom: 15px;
+}
+
+footer {
+    background: #003366;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
